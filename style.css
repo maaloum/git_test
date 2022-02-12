@@ -4,4 +4,15 @@ body {
 
 h1 {
   color: blue;
+  font-size: medium;
+}
+
+/* .command {
+  color: blue;
+} */
+#event {
+  color: rgb(219, 25, 83);
+}
+#check {
+  color: brown;
 }
