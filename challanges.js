@@ -319,4 +319,4 @@ function countingValleys(steps, path) {
   return valleys;
 }
 
-console.log(countingValleys(8, 'UDDDUDUU'))
+console.log("valleys " + countingValleys(8, 'UDDDUDUU'));
